@@ -6,4 +6,4 @@ logging:
           samples: INFO
 
 fortune:
-  fallbackFortune: Your future is cloudy STL! Well. And humid.
+  fallbackFortune: Your future is cloudy STL! Well. And humid. And still hot!
